@@ -1,2 +1,2 @@
-# GardenRaid
+# garden-raid
 Project card game
